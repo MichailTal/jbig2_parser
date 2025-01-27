@@ -3,7 +3,7 @@ requires = ["maturin>=1.0"]
 build-backend = "maturin"
 
 [project]
-name = "jbig2-parser"
+name = "jbig2_parser"
 version = "0.1.0"
 description = "A Python library for decoding JBIG2 images using Rust."
 readme = "README.md"
