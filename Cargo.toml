@@ -1,7 +1,7 @@
 [package]
 name = "jbig2_parser"
 authors = ["Koehler, Nils <nils.koehler1@gmx.net>"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Simple decoder library from jbig2 decoded buffers"
 readme = "README.md"

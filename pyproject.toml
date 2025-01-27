@@ -9,7 +9,7 @@ repository = "https://github.com/MichailTal/jbig2_parser"
 
 [project]
 name = "jbig2_parser"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python library for decoding JBIG2 images using Rust."
 readme = "README.md"
 license = "MIT"
